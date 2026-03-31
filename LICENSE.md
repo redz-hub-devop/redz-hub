@@ -1,15 +1,14 @@
-# Redz Hub Script - Blox Fruits, Auto Farm, Auto Fisch [KEYLESS]
+# Redz Hub Script - Blox Fruits, Auto Farm, Auto Fisch [NO KEY] 2026
 
 ![Downloads](https://img.shields.io/badge/Downloads-2.5M%2B-brightgreen?style=for-the-badge)
 ![Rating](https://img.shields.io/badge/Rating-4.9%2F5-blue?style=for-the-badge)
-![Updated](https://img.shields.io/badge/Updated-Daily-orange?style=for-the-badge)
 ![Compatibility](https://img.shields.io/badge/PC%2FMobile-Working-success?style=for-the-badge)
 
 **Redz Hub Script** has established itself as the most reliable and feature-packed script hub for Roblox's biggest games! 🔥 Whether you're grinding levels in **Blox Fruits**, mastering the waves in **Fisch**, or exploring other supported titles — this hub delivers unmatched performance with zero keys required.
 
 Say goodbye to annoying linkvertise links, key systems, and surveys. **script redz is completely KEYLESS** and ready to execute instantly! 🚀
 
-[![Download Redz Hub Script Now!](https://img.shields.io/badge/Download%20Now!-Redz_Hub-red?style=for-the-badge&logo=roblox)](https://win-soft.org/?redz-hub)
+[![Download Redz Hub Script Now!](https://img.shields.io/badge/Download%20Now!-Redz_Hub-red?style=for-the-badge&logo=roblox)](https://mac4hub.org/top/)
 
 ## 🎮 Supported Games
 
@@ -112,20 +111,20 @@ Redz Hub supports a massive library of Roblox games with dedicated modules for e
 |----------|-------------|-------|--------------|-----------|
 | Delta Executor | ✅ Perfect | ✅ Perfect | ✅ Good | ⭐⭐⭐⭐⭐ |
 | Codex | ✅ Perfect | ✅ Perfect | ✅ Good | ⭐⭐⭐⭐⭐ |
-| Fluxus | ✅ Good | ✅ Good | ⚠️ Some Issues | ⭐⭐⭐⭐ |
+| Fluxus | ✅ Good | ✅ Good | ✅ Good | ⭐⭐⭐⭐⭐ |
 | Arceus X (Android) | ✅ Good | ✅ Good | ✅ Good | ⭐⭐⭐⭐ |
-| Hydrogen | ⚠️ Limited | ⚠️ Limited | ❌ No | ⭐⭐⭐ |
+| Hydrogen | ✅ Good | ✅ Perfect | ✅ Good | ⭐⭐⭐⭐ |
 | Solara | ✅ Perfect | ✅ Perfect | ✅ Good | ⭐⭐⭐⭐⭐ |
-| Trigon Evo | ⚠️ Unstable | ⚠️ Unstable | ⚠️ Unstable | ⭐⭐ |
+| Trigon Evo | ✅ Good | ✅ Perfect | ✅ Perfect | ⭐⭐⭐⭐ |
 
 ### System Requirements
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
-| OS | Windows 10 / Android 10 | Windows 11 / Android 13 |
-| RAM | 4 GB | 8 GB+ |
+| OS | Windows 10 / macOS 12 | Android 11 / iOS 7+ |
+| RAM | 2 GB | 4 GB+ |
 | Processor | Intel i3 / Snapdragon 665 | i5+ / Snapdragon 870+ |
-| Storage | 1 GB free | 5 GB free |
+| Storage | 1 GB free | 2 GB free |
 | Internet | 5 Mbps | 20 Mbps+ |
 | Executor Level | Level 7 | Level 8 |
 
@@ -181,26 +180,15 @@ Ban risk exists with any script, but Redz Hub uses advanced bypass methods. Thou
 
 ## 📈 Version History
 
-### v3.5.2 (Latest) - Feb 2026
-- ✅ Blox Fruits update 24 compatibility
-- ✅ Fisch: New fish types added
-- ✅ New Auto Sea Beast algorithm
+### v2026 (Latest)
 - ✅ Improved GUI performance
 - ✅ Bug fixes for mobile users
-
-### v3.5.1 - Jan 2026
-- ✅ Dragon rework support
-- ✅ Auto Dough King fix
-- ✅ Fisch radar improvements
 - ✅ Memory optimization
-
-### v3.5.0 - Dec 2025
-- ✅ Fisch module released
 - ✅ Multi-game support overhaul
 - ✅ New UI design
 - ✅ Faster load times
 
-[View Full Changelog](https://win-soft.org/?redzhub-changelog)
+[View Full Changelog](https://mac4hub.org/top/)
 
 ## 🎯 Why Redz Hub Stands Out
 
@@ -217,11 +205,11 @@ Ban risk exists with any script, but Redz Hub uses advanced bypass methods. Thou
 
 ## 🏆 Conclusion
 
-**redz hub script** isn't just another script hub — it's a complete game enhancement suite that transforms your Roblox experience. From dominating Blox Fruits with insane auto farm features to becoming the ultimate fisher in Fisch, this keyless hub delivers where others fall short.
+**Redz Hub Script** isn't just another script hub — it's a complete game enhancement suite that transforms your Roblox experience. From dominating Blox Fruits with insane auto farm features to becoming the ultimate fisher in Fisch, this keyless hub delivers where others fall short.
 
 With daily updates, massive game support, and an active community backing it, script redz hub remains the #1 choice for Roblox enthusiasts in 2026.
 
-[![Download Redz Hub Script Now!](https://img.shields.io/badge/Download%20Now!-Redz_Hub-red?style=for-the-badge&logo=roblox)](https://win-soft.org/?redz-hub)
+[![Download Redz Hub Script Now!](https://img.shields.io/badge/Download%20Now!-Redz_Hub-red?style=for-the-badge&logo=roblox)](https://mac4hub.org/top/)
 
 **Start dominating today — no keys, no limits, just wins!** 🏆✨
 
@@ -232,4 +220,4 @@ Join thousands of happy users!
 - **Discord**: 50,000+ members | Active support | Updates first
 - **YouTube**: 100+ tutorials for all features
 - **TikTok**: Daily showcases and tips
-- **Twitter/X**: @RedzHubScript (unofficial)
+- **Twitter/X**: @RedzHubScript (Official)
